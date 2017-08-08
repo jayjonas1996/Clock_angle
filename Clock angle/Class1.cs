@@ -33,7 +33,7 @@ namespace Clock_angle
             //float angle;
 
             //float minute = (30f / 5f) * mm;                          //calculates minute hands angle w.r.t 12 o'clock;
-            //float hour = ((30f * hh) + (.5f * mm));                  //minute add only for precision;
+            //float hour = ((30f * hh) + (.5f * mm));                  //calculates hour angle w.r.t 12 and correction of minute hand is added;
 
             //angle = (minute - hour);                                 //calculate the difference;
 
@@ -95,7 +95,7 @@ namespace Clock_angle
             //float angle;
 
             //float minute = (30f / 5f) * mm;                          //calculates minute hands angle w.r.t 12 o'clock;
-            //float hour = ((30f * hh) + (.5f * mm));                  //minute add only for precision;
+            //float hour = ((30f * hh) + (.5f * mm));                  //calculates hour angle w.r.t 12 and correction of minute hand is added;
 
             //angle = (minute - hour);                                 //calculate the difference;
 
@@ -125,7 +125,7 @@ namespace Clock_angle
             //float angle;
 
             //float minute = (30f / 5f) * mm;                          //calculates minute hands angle w.r.t 12 o'clock;
-            //float hour = (30f * hh);                                 //minute add only for precision;
+            //float hour = (30f * hh);                                 //calculates hour angle w.r.t 12;
 
             //angle = (minute - hour);                                 //calculate the difference;
 
