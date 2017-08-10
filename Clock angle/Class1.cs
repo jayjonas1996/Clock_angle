@@ -12,7 +12,7 @@ namespace Clock_angle
     {
 
         //this project features (;) after every comment because equality;
-        // And no i won't write (//) in front of every code in the name of the equality;
+        // And no i won't write (//) in front of every code in the name of the equality; 
 
         /// <summary>
         ///Returns  angle between hour and minute hands of 
