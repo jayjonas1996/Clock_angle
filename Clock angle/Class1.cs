@@ -9,7 +9,7 @@ using System.Threading.Tasks;               */
 namespace Clock_angle
 {
     public class Clockangle
-    {
+    { 
 
         //this project features (;) after every comment because equality;
         // And no i won't write (//) in front of every code in the name of the equality; 
